@@ -26,7 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-**Intended use of the system:**
+## Intended use of the system:
 A rental service is a service in which customers arrive to request the hire of a rental unit. It is more convenient than carrying the cost of owning and maintaining the unit. A car rental or car hire agency is a company that rents automobiles for a short period of time for a fee whether in a few hours or a few days or week. It is an extended form of a rental shop, often organized with numerous local branches (which allow a user to return a vehicle to a different location), and primarily located near airports or busy city areas and often complemented by a website allowing online reservations.
 
 Car rental agencies primarily serve people who have a car that is temporarily out of reach or out of service, for example travelers who are out of town or owners of damaged or destroyed vehicles who are awaiting repair or insurance compensation. Because of the variety of sizes of their vehicles, car rental agencies may also serve the self- moving industry needs, by renting RVs or trucks, and in certain markets other types of vehicles such as motorbikes may also be offered.
